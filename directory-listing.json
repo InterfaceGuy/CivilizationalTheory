@@ -1,0 +1,81 @@
+{
+  "CivilizationalTheory.sublime-workspace": null,
+  "index.html": null,
+  "CivilizationalTheory.sublime-project": null,
+  "README.md": null,
+  "DreamSong.canvas": null,
+  "CivDeepCycles": {
+    "CivDeepCycles.key": null,
+    "CivDeepCycles.sublime-project": null,
+    "CivDeepCycles.py": null,
+    "README.md": null,
+    "CivDeepCycles.gif": null,
+    "CivDeepCycles.sublime-workspace": null,
+    "CivBigHistoryLens": {
+      "CivBigHistoryLens.key": null,
+      "CivBigHistoryLens.png": null,
+      "README.md": null,
+      "CivBigHistoryLens.gif": null,
+      "Civilisation": {
+        "Civilisation.key": null,
+        "Civilisation.png": null,
+        "README.md": null,
+        "DreamSongUI": {
+          "styles.css": null,
+          "update_submodules.py": null,
+          "README.md": null,
+          "linearFlowCanvas.js": null,
+          "DepletionRejuvenationSpirals": {
+            "DepletionRejuvenationSpirals.gif": null,
+            "DepletionRejuvenationSpirals.c4d": null,
+            "README.md": null,
+            "DepletionRejuvenationSpirals.py": null,
+            "FourthTurning": {
+              "FourthTurning.png": null,
+              "FourthTurning.key": null,
+              "README.md": null,
+              "FourthTurning.sublime-project": null,
+              "FourthTurning.py": null,
+              "FourthTurning.sublime-workspace": null,
+              "FourthTurning.gif": null,
+              "CivSpiritualistLens": {
+                "CivSpiritualistLens.key": null,
+                "CivSpiritualistLens.png": null,
+                "README.md": null,
+                "CivilisationCulturalistLens": {
+                  "CivilisationCulturalistLens.png": null,
+                  "CivilisationCulturalistLens.key": null,
+                  "README.md": null,
+                  "FourthTurningHardFork": {
+                    "index.html": null,
+                    "FourthTurningHardForkFlattened.mp4": null,
+                    "FourthTurningHardForkFlattened3.mp4": null,
+                    "FourthTurningHardForkFlattened2.mp4": null,
+                    "FourthTurningHardForkFlattened4.mp4": null,
+                    "README.md": null,
+                    "FourthTurningHardFork.sublime-project": null,
+                    "FourthTurningHardFork.sublime-workspace": null,
+                    "FourthTurningHardForkSide.mp4": null,
+                    "FourthTurningHardFork.c4d": null,
+                    "DreamSong.canvas": null,
+                    "FourthTurningHardFork.mp4": null,
+                    "FourthTurningHardFork.py": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "CivBigHistoryLens": {},
+  "Civilisation": {},
+  "DreamSongUI": {},
+  "DepletionRejuvenationSpirals": {},
+  "FourthTurning": {},
+  "CivSpiritualistLens": {},
+  "CivilisationCulturalistLens": {},
+  "FourthTurningHardFork": {},
+  "parent_directory": "CivilizationalTheory"
+}

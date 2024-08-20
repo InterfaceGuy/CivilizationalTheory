@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a2fcee99f0813a2c","type":"file","file":"CivilizationalTheory/CivBigHistoryLens/CivBigHistoryLens.png","x":-320,"y":-452,"width":400,"height":151},
+		{"id":"39ee5b85e29c76c0","type":"file","file":"CivilizationalTheory/CivilisationCulturalistLens/CivilisationCulturalistLens.png","x":-320,"y":-243,"width":400,"height":167},
+		{"id":"112dd1cadfcc7987","type":"file","file":"CivilizationalTheory/Civilisation/Civilisation.png","x":-320,"y":-920,"width":400,"height":400},
+		{"id":"67bbcb70595aa13b","type":"file","file":"CivilizationalTheory/CivSpiritualistLens/CivSpiritualistLens.png","x":-320,"y":-20,"width":400,"height":152},
+		{"id":"a15bdeb2783a0b12","type":"file","file":"CivilizationalTheory/CivDeepCycles/CivDeepCycles.gif","x":-320,"y":200,"width":400,"height":225},
+		{"id":"3e3351900cc89107","type":"file","file":"CivilizationalTheory/DepletionRejuvenationSpirals/DepletionRejuvenationSpirals.gif","x":-320,"y":480,"width":400,"height":225},
+		{"id":"7fc61c4ab62cb29b","type":"file","file":"CivilizationalTheory/FourthTurningHardFork/FourthTurningHardFork.mp4","x":-320,"y":760,"width":400,"height":225},
+		{"id":"46b6373dd09ab862","x":-320,"y":1080,"width":400,"height":225,"type":"file","file":"FourthTurning/FourthTurningPendulum.gif"}
+	],
+	"edges":[
+		{"id":"4ecc3348724d8181","fromNode":"112dd1cadfcc7987","fromSide":"bottom","toNode":"a2fcee99f0813a2c","toSide":"top"},
+		{"id":"4e75cc2ed6420ef0","fromNode":"a2fcee99f0813a2c","fromSide":"bottom","toNode":"39ee5b85e29c76c0","toSide":"top"},
+		{"id":"488b8bf41d76ecce","fromNode":"39ee5b85e29c76c0","fromSide":"bottom","toNode":"67bbcb70595aa13b","toSide":"top"},
+		{"id":"030e06aee0458ea3","fromNode":"67bbcb70595aa13b","fromSide":"bottom","toNode":"a15bdeb2783a0b12","toSide":"top"},
+		{"id":"2ab0290424ada674","fromNode":"a15bdeb2783a0b12","fromSide":"bottom","toNode":"3e3351900cc89107","toSide":"top"},
+		{"id":"f1e1161dfc6b305f","fromNode":"3e3351900cc89107","fromSide":"bottom","toNode":"7fc61c4ab62cb29b","toSide":"top"},
+		{"id":"fce017011f40d1e5","fromNode":"7fc61c4ab62cb29b","fromSide":"bottom","toNode":"46b6373dd09ab862","toSide":"top"}
+	]
+}

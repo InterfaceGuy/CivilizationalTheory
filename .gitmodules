@@ -1,3 +1,27 @@
 [submodule "DreamSongUI"]
 	path = DreamSongUI
 	url = https://github.com/InterfaceGuy/DreamSongUI
+[submodule "DepletionRejuvenationSpirals"]
+	path = DepletionRejuvenationSpirals
+	url = https://github.com/InterfaceGuy/DepletionRejuvenationSpirals.git
+[submodule "CivDeepCycles"]
+	path = CivDeepCycles
+	url = https://github.com/InterfaceGuy/CivDeepCycles.git
+[submodule "CivilisationCulturalistLens"]
+	path = CivilisationCulturalistLens
+	url = https://github.com/InterfaceGuy/CivilisationCulturalistLens.git
+[submodule "CivBigHistoryLens"]
+	path = CivBigHistoryLens
+	url = https://github.com/InterfaceGuy/CivBigHistoryLens.git
+[submodule "FourthTurningHardFork"]
+	path = FourthTurningHardFork
+	url = https://github.com/InterfaceGuy/FourthTurningHardFork.git
+[submodule "FourthTurning"]
+	path = FourthTurning
+	url = https://github.com/InterfaceGuy/FourthTurning.git
+[submodule "Civilisation"]
+	path = Civilisation
+	url = https://github.com/InterfaceGuy/Civilisation.git
+[submodule "CivSpiritualistLens"]
+	path = CivSpiritualistLens
+	url = https://github.com/InterfaceGuy/CivSpiritualistLens.git
